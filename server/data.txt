@@ -1,0 +1,121 @@
+РЕАЛИЗАЦИЯ ТРЁХМЕРНОЙ ПРОЕКТИВНОЙ ГЕОМЕТРИЧЕСКОЙ АЛГЕБРЫ НА ВЫСОКОУРОВНЕВОМ ЯЗЫКЕ ПРОГРАММИРОВАНИЯ
+АППАРАТ ГЕОМЕТРИЧЕСКОЙ АЛГЕБРЫ И КВАТЕРНИОНОВ В СИСТЕМАХ СИМВОЛЬНЫХ ВЫЧИСЛЕНИЙ ДЛЯ ОПИСАНИЯ ВРАЩЕНИЙ В ЕВКЛИДОВОМ ПРОСТРАНСТВЕ
+РЕАЛИЗАЦИЯ ГЕОМЕТРИЧЕСКОЙ АЛГЕБРЫ В СИСТЕМАХ СИМВОЛЬНЫХ ВЫЧИСЛЕНИЙ
+JULIA LANGUAGE FEATURES FOR PROCESSING STATISTICAL DATA
+РАСЧЕТ ЛИНЗ МАКСВЕЛЛА И ЛЮНИБЕРГА С ПОМОЩЬЮ ЧИСЛЕННОГО РЕШЕНИЯ УРАВНЕНИЯ ЭЙКОНАЛА
+ОПИСАНИЕ ВРАЩЕНИЙ В ТРЁХМЕРНОМ ПРОСТРАНСТВЕ С ПОМОЩЬЮ МЕТОДОВ ГЕОМЕТРИЧЕСКОЙ АЛГЕБРЫ С РЕАЛИЗАЦИЕЙ НА ЯЗЫКЕ PYTHON
+АНАЛИТИКО-ЧИСЛЕННАЯ РЕАЛИЗАЦИЯ АЛГЕБРЫ ПОЛИВЕКТОРОВ НА ЯЗЫКЕ JULIA
+IMPLEMENTATION OF HYPERBOLIC COMPLEX NUMBERS IN JULIA LANGUAGE
+SYMBOLIC IMPLEMENTATION OF MULTIVECTOR ALGEBRA IN JULIA LANGUAGE
+УПРАВЛЕНИЕ ИНФОРМАЦИОННО-ТЕХНОЛОГИЧЕСКИМИ СЕРВИСАМИ И КОНТЕНТОМ: ЛАБОРАТОРНЫЙ ПРАКТИКУМ
+ИСПОЛЬЗОВАНИЕ ШАБЛОНИЗАТОРА КАК ИНСТРУМЕНТАРИЯ КОМПЬЮТЕРНОЙ АЛГЕБРЫ
+ЛАБОРАТОРНЫЕ РАБОТЫ ДЛЯ КУРСА ПАРАЛЛЕЛЬНОЕ ПРОГРАММИРОВАНИЕ
+РЕАЛИЗАЦИЯ ГЕНЕРАТОРОВ РАВНОМЕРНО-РАСПРЕДЕЛЕННЫХ ПСЕВДОСЛУЧАЙНЫХ ЧИСЕЛ
+БИБЛИОТЕКА ДЛЯ ГЕНЕРАЦИИ РАВНОМЕРНО РАСПРЕДЕЛЕННЫХ ПСЕВДОСЛУЧАЙНЫХ ЧИСЕЛ
+СРАВНИТЕЛЬНЫЙ АНАЛИЗ АРХИТЕКТУР НЕЙРОННЫХ СЕТЕЙ ДЛЯ РЕШЕНИЯ РАЗЛИЧНЫХ ЗАДАЧ
+HYPERBOLIC NUMBERS AS EINSTEIN NUMBERS
+ПРАКТИЧЕСКИЙ ПОДХОД К ТЕСТИРОВАНИЮ ГЕНЕРАТОРОВ СЛУЧАЙНЫХ ЧИСЕЛ СИСТЕМ КОМПЬЮТЕРНОЙ АЛГЕБРЫ
+ПРИМЕР МОДУЛЬНОГО РАСШИРЕНИЯ СИСТЕМЫ КОМПЬЮТЕРНОЙ АЛГЕБРЫ
+COMPARATIVE ANALYSIS OF MACHINE LEARNING METHODS BY THE EXAMPLE OF THE PROBLEM OF DETERMINING MUON DECAY
+CAS PSEUDO-RANDOM NUMBERS GENERATORS STATISTICAL TEST SUITS
+ОБЗОР ПРОГРАММНЫХ СРЕДСТВ ДЛЯ ИССЛЕДОВАНИЯ СОЦИАЛЬНЫХ СЕТЕЙ
+АРХИТЕКТУРА ВЫЧИСЛИТЕЛЬНЫХ СИСТЕМ
+STATISTICALLY SIGNIFICANT PERFORMANCE TESTING OF JULIA SCIENTIFIC PROGRAMMING LANGUAGE
+USING DOCKER TO DEPLOY COMPUTING SOFTWARE
+OVERVIEW OF SOCIAL NETWORKS RESEARCH SOFTWARE
+STATISTICALLY SIGNIFICANT COMPARATIVE PERFORMANCE TESTING OF JULIA AND FORTRAN LANGUAGES IN CASE OF RUNGE–KUTTA METHODS
+CONSTRAINED HAMILTONIAN APPROACH TO THE MAXWELL THEORY
+NUMERICAL ANALYSIS OF EIKONAL EQUATION
+REVIEW AND COMPARATIVE ANALYSIS OF MACHINE LEARNING LIBRARIES FOR MACHINE LEARNING
+АВТОМАТИЧЕСКАЯ ГЕНЕРАЦИЯ КОДА ДЛЯ СТОХАСТИЧЕСКИХ ЧИСЛЕННЫХ МЕТОДОВ
+АВТОМАТИЗАЦИЯ АЛГОРИТМОВ СТОХАСТИЗАЦИИ
+АВТОМАТИЧЕСКАЯ ГЕНЕРАЦИЯ КОДА ДЛЯ КЛАССИЧЕСКИХ И ВЛОЖЕННЫХ ЯВНЫХ МЕТОДОВ РУНГЕ--КУТТЫ
+ЧИСЛЕННЫЙ РАСЧЕТ ЛИНЗ МАКСВЕЛЛА И ЛЮНЕБЕРГА
+КОМПЬЮТЕРНАЯ ГЕОМЕТРИЯ И ГЕОМЕТРИЧЕСКОЕ МОДЕЛИРОВАНИЕ
+ВОПРОСЫ РЕАЛИЗАЦИИ СТОХАСТИЧЕСКИХ ЧИСЛЕННЫХ МЕТОДОВ РУНГЕ-КУТТЫ
+ЧИСЛЕННЫЙ АНАЛИЗ ГЕОМЕТРИЗОВАННЫХ УРАВНЕНИЙ МАКСВЕЛЛА
+МОДЕЛИРОВАНИЕ РАСПРОСТРАНЕНИЯ СЕТЕВЫХ ЧЕРВЕЙ С ПОМОЩЬЮ СТОХАСТИЧЕСКИХ ДИФФЕРЕНЦИАЛЬНЫХ УРАВНЕНИЙ
+АНАЛИЗ ТРУДНОСТЕЙ РЕАЛИЗАЦИИ СТОХАСТИЧЕСКИХ ЧИСЛЕННЫХ МЕТОДОВ РУНГЕ-КУТТЫ
+ЧИСЛЕННЫЙ АНАЛИЗ ГЕОМЕТРИЗОВАННЫХ УРАВНЕНИЙ МАКСВЕЛЛА
+SOFTWARE PACKAGE FOR THE ACTIVE QUEUE MANAGEMENT MODULE MODEL VERIFICATION
+СТОХАСТИЧЕСКОЕ МОДЕЛИРОВАНИЕ РАСПРОСТРАНЕНИЯ КОМПЬЮТЕРНЫХ ВИРУСОВ
+SOFTWARE IMPLEMENTATION OF THE EIKONAL EQUATION
+AUTOMATIC CODE GENERATION FOR STOCHASTIC RUNGE-KUTTA METHODS
+PSEUDO-RANDOM NUMBER GENERATOR BASED ON NEURAL NETWORK
+РЕАЛИЗАЦИЯ МЕТОДА СТОХАСТИЗАЦИИ ОДНОШАГОВЫХ ПРОЦЕССОВ В СИСТЕМЕ КОМПЬЮТЕРНОЙ АЛГЕБРЫ
+ALGORITHM FOR LENS CALCULATIONS IN THE GEOMETRIZED MAXWELL THEORY
+ISSUES IN THE SOFTWARE IMPLEMENTATION OF STOCHASTIC NUMERICAL RUNGE–KUTTA
+
+
+SOFTWARE IMPLEMENTATION OF THE EIKONAL EQUATION
+THE AUTOMATION OF STOCHASTIZATION ALGORITHM WITH USE OF SYMPY COMPUTER ALGEBRA LIBRARY
+РЕАЛИЗАЦИЯ ГЕНЕРАТОРОВ ПСЕВДОСЛУЧАЙНЫХ РАВНОМЕРНО РАСПРЕДЕЛЕННЫХ СЛУЧАЙНЫХ ЧИСЕЛ, ИСПОЛЬЗУЮЩИХ ПОБИТОВЫЕ ОПЕРАЦИИ
+РЕАЛИЗАЦИЯ РАЗЛИЧНЫХ МОДИФИКАЦИЙ ЛИНЕЙНЫХ КОНГРУЭНТНЫХ ГЕНЕРАТОРОВ ПСЕВДОСЛУЧАЙНЫХ РАВНОМЕРНО РАСПРЕДЕЛЕННЫХ СЛУЧАЙНЫХ ЧИСЕЛ
+РЕАЛИЗАЦИЯ СИМПЛЕКТИЧЕСКИХ РАЗДЕЛЬНЫХ МЕТОДОВ РУНГЕ-КУТТЫ И РУНГЕ-КУТТЫ-НЮСТРЁМА
+РЕАЛИЗАЦИЯ ВЛОЖЕННЫХ МЕТОДОВ РУНГЕ-КУТТЫ ВЫСОКОГО ПОРЯДКА С УПРАВЛЕНИЕМ ШАГОМ
+ПАРАЛЛЕЛЬНЫЙ РАСЧЕТ СТОХАСТИЧЕСКОЙ ЧИСЛЕННОЙ МОДЕЛИ ТИПА ХИЩНИК-ЖЕРТВА МЕТОДОМ МОНТЕ-КАРЛО
+РЕАЛИЗАЦИЯ ГЕНЕРАТОРОВ ПСЕВДОСЛУЧАЙНЫХ ЧИСЕЛ, РАСПРЕДЕЛЕННЫХ ПО НОРМАЛЬНОМУ, ЭКСПОНЕНЦИАЛЬНОМУ И ПУАССОНОВСКОМУ ЗАКОНАМ
+ПРИМЕНЕНИЕ РАЗЛИЧНЫХ ФУНКЦИЙ РАСПРЕДЕЛЕНИЯ ПРИ СТОХАСТИЗАЦИИ ОДНОШАГОВЫХ МОДЕЛЕЙ
+THE CONSTRUCTION OF THE SDE FOR MODELING WIND SPEED FOR WIND POWER PLANTS
+О ПОДДЕРЖКЕ ПАРАЛЛЕЛЬНЫХ ВЫЧИСЛЕНИЙ В ЯЗЫКЕ JULIA
+СТОХАСТИЧЕСКОЕ МОДЕЛИРОВАНИЕ ВЕТРОЭНЕРГЕТИЧЕСКИХ УСТАНОВОК
+APPROACHES TO STOCHASTIC MODELING OF WIND TURBINES
+ЧИСЛЕННОЕ МОДЕЛИРОВАНИЕ СТОХАСТИЧЕСКИХ ПРОЦЕССОВ
+STOCHASTIC MODELING OF WIND TURBINES
+SUPPORT FOR PARALLEL COMPUTING IN JULIA LANGUAGE
+IMPLEMENTATION DIFFICULTIES ANALYSIS OF STOCHASTIC NUMERICAL RUNGEKUTTA METHODS
+FIELD CALCULATION FOR THE HORN WAVEGUIDE TRANSITION IN THE SINGLE-MODE APPROXIMATION OF THE CROSS-SECTIONS METHOD
+GEOMETRIZATION OF MAXWELL'S EQUATIONS IN THE CONSTRUCTION OF OPTICAL DEVICES
+GUIDED MODES OF A PLANAR GRADIENT WAVEGUIDE
+РАСЧЕТ ИЗЛУЧАТЕЛЬНЫХ ПОКРОВНЫХ МОД ДЛЯ ПЛАНАРНЫХ МНОГОСЛОЙНЫХ ТОНКОПЛЕНОЧНЫХ ВОЛНОВОДОВ
+РАСПРЕДЕЛЕННОЕ ДЕШИФРОВАНИЕ АЛГОРИТМОВ AES, DES, 3DES И RC6
+РАСЧЕТ НАПРАВЛЯЕМЫХ ВОЛНОВЫХ МОД ДЛЯ ПЛАНАРНЫХ МНОГОСЛОЙНЫХ ТОНКОПЛЕНОЧНЫХ ВОЛНОВОДОВ
+РАСЧЕТ ИЗЛУЧАТЕЛЬНЫХ ПОДЛОЖЕЧНЫХ МОД ДЛЯ ПЛАНАРНЫХ МНОГОСЛОЙНЫХ ТОНКОПЛЕНОЧНЫХ ВОЛНОВОДОВ
+ИМИТАЦИОННОЕ И ЧИСЛЕННОЕ МОДЕЛИРОВАНИЕ ФУНКЦИОНИРОВАНИЯ МОДУЛЯ АКТИВНОГО УПРАВЛЕНИЯ ТРАФИКОМ GRED С УЧЕТОМ САМОСОГЛАСОВАННОГО СТОХАСТИЧЕСКОГО ВОЗДЕЙСТВИЯ
+ВЫЧИСЛЕНИЕ ДИСПЕРСИОННЫХ ЗАВИСИМОСТЕЙ ДЛЯ ПЛАНАРНЫХ МНОГОСЛОЙНЫХ ТОНКОПЛЕНОЧНЫХ ВОЛНОВОДОВ
+ОПЕРАЦИОННЫЕ СИСТЕМЫ : ЛАБОРАТОРНЫЕ РАБОТЫ
+ЧИСЛЕННОЕ И ИМИТАЦИОННОЕ МОДЕЛИРОВАНИЕ ДИСЦИПЛИН ОБСЛУЖИВАНИЯ ОЧЕРЕДЕЙ ТИПА RED НА МАРШРУТИЗАТОРЕ
+МОДЕЛИРОВАНИЕ СТОХАСТИЧЕСКИХ ПРОЦЕССОВ С ПОМОЩЬЮ OPENMODELICA
+OPERATING SYSTEM PLAN9 AS THE IMPLEMENTATION OF THE GRID IDEOLOGY
+ОБЗОР И ТЕСТИРОВАНИЕ ГЕНЕРАТОРОВ ПСЕВДОСЛУЧАЙНЫХ ЧИСЕЛ И ИХ РЕАЛИЗАЦИЯ OPENMODELICA
+WAVEGUIDE MODES OF A PLANAR GRADIENT OPTICAL WAVEGUIDE
+РЕАЛИЗАЦИЯ ВИНЕРОВСКОГО И ПУАССОНОВСКОГО СТОХАСТИЧЕСКИХ ПРОЦЕССОВ В OPENMODELICA
+ОСОБЕННОСТИ РАСШИРЕНИЯ СИСТЕМЫ OPENMODELICA
+ЧИСЛЕННОЕ И ИМИТАЦИОННОЕ МОДЕЛИРОВАНИЕ ДИСЦИПЛИН ОБСЛУЖИВАНИЯ ОЧЕРЕДЕЙ ТИПА RED НА МАРШРУТИЗАТОРЕ
+NUMERICAL AND ANALYTICAL MODELING OF GUIDED MODES OF A PLANAR GRADIENT WAVEGUIDE
+THE STOCHASTIC PROCESSES GENERATION IN OPENMODELICA
+STOCHASTIC RUNGE-KUTTA SOFTWARE PACKAGE FOR STOCHASTIC DIFFERENTIAL EQUATIONS
+
+
+STOCHASTIC RUNGE-KUTTA SOFTWARE PACKAGE FOR STOCHASTIC DIFFERENTIAL EQUATIONS. DEPENDABILITY ENGINEERING AND
+РАСЧЕТ ПАРАМЕТРОВ АВТОКОЛЕБАНИЯ МОДУЛЕЙ АКТИВНОГО УПРАВЛЕНИЯ ТРАФИКОМ СЕМЕЙСТВА RED (RANDOM EARLY DETECTION)
+РАСЧЕТ ПАРАМЕТРОВ ФУНКЦИОНИРОВАНИЯ МОДУЛЯ АКТИВНОГО УПРАВЛЕНИЯ ТРАФИКОМ AUTONOMOUS RANDOM EARLY DETECTION
+РАСЧЕТ ПАРАМЕТРОВ ФУНКЦИОНИРОВАНИЯ МОДУЛЯ АКТИВНОГО УПРАВЛЕНИЯ ТРАФИКОМ STABILIZED ADAPTIVE RANDOM EARLY DETECTION
+РАСЧЕТ ПАРАМЕТРОВ ФУНКЦИОНИРОВАНИЯ МОДУЛЯ АКТИВНОГО УПРАВЛЕНИЯ ТРАФИКОМ ADAPTIVE VIRTUAL QUEUE RANDOM EARLY DETECTION
+РАСЧЕТ ПАРАМЕТРОВ ФУНКЦИОНИРОВАНИЯ МОДУЛЕЙ АКТИВНОГО УПРАВЛЕНИЯ ТРАФИКОМ СЕМЕЙСТВА RED (RANDOM EARLY DETECTION) С УЧЕТОМ САМОСОГЛАСОВАННОГО СТОХАСТИЧЕСКОГО ВОЗДЕЙСТВИЯ
+РАСЧЕТ ПАРАМЕТРОВ ФУНКЦИОНИРОВАНИЯ МОДУЛЕЙ АКТИВНОГО УПРАВЛЕНИЯ ТРАФИКОМ СЕМЕЙСТВА RED (RANDOM EARLY DETECTION)
+ИССЛЕДОВАНИЕ ВЛИЯНИЯ СТОХАСТИЧЕСКОГО ЭЛЕМЕНТА В МОДЕЛИ МОДУЛЯ УПРАВЛЕНИЯ ТРАФИКОМ
+ОБЗОР СТОХАСТИЧЕСКИХ МЕТОДОВ РУНГЕ-КУТТЫ
+ИНФОРМАЦИОННАЯ БЕЗОПАСНОСТЬ КОМПЬЮТЕРНЫХ СЕТЕЙ
+СРАВНИТЕЛЬНЫЙ АНАЛИЗ ПРИМЕНИМОСТИ ЖИДКОСТНОГО И ДИСКРЕТНОГО ПОДХОДА К ПОСТРОЕНИЮ МОДЕЛЕЙ ТЕЛЕКОММУНИКАЦИОННЫХ СИСТЕМ
+WAVEGUIDE MODES OF A PLANAR OPTICAL WAVEGUIDE
+НАСТРОЙКА ВЫСОКОПРОИЗВОДИТЕЛЬНОГО ВЫЧИСЛИТЕЛЬНОГО КОМПЛЕКСА‌
+АНАЛИЗ ВЛИЯНИЯ ВВЕДЕНИЯ СТОХАСТИКИ В ДЕТЕРМИНИСТИЧЕСКУЮ МОДЕЛЬ "ХИЩНИК-ЖЕРТВА"‌
+ПАРАЛЛЕЛЬНОЕ ПРОГРАММИРОВАНИЕ: ЛАБОРАТОРНЫЕ РАБОТЫ
+СРАВНИТЕЛЬНЫЙ АНАЛИЗ СТОХАСТИЧЕСКИХ И ДЕТЕРМИНИСТИЧЕСКИХ МОДЕЛЕЙ ОДНОШАГОВЫХ ПРОЦЕССОВ
+ВЛИЯНИЕ СТОХАСТИЗАЦИИ НА ОДНОШАГОВЫЕ МОДЕЛИ
+ONE-STEP STOCHASTIC PROCESSES SIMULATION SOFTWARE PACKAGE
+СТОХАСТИЧЕСКОЕ МОДЕЛИРОВАНИЕ ПРОТОКОЛА FASTTRACK
+АНАЛИЗ СОСТАВНЫХ СИМПЛЕКТИЧЕСКИХ МЕТОДОВ И СИМПЛЕКТИЧЕСКИХ МЕТОДОВ РУНГЕ-КУТТА НА ДЛИТЕЛЬНЫХ ИНТЕРВАЛАХ ВРЕМЕНИ
+АНАЛИЗ СОСТАВНЫХ СИМПЛЕКТИЧЕСКИХ МЕТОДОВ И СИМПЛЕКТИЧЕСКИХ МЕТОДОВ РУНГЕ-КУТТА НА ДЛИТЕЛЬНЫХ ИНТЕРВАЛАХ ВРЕМЕНИ
+РАЗНОСТНЫЕ МЕТОДЫ РАСЧЕТА ОПТИЧЕСКИХ НАНОСТРУКТУР
+ТОЧНОСТЬ СОХРАНЕНИЯ ИНВАРИАНТОВ СИМПЛЕКТИЧЕСКИМИ МЕТОДАМИ
+КОНКРЕТНЫЕ РЕАЛИЗАЦИИ СИМПЛЕКТИЧЕСКИХ ЧИСЛЕННЫХ МЕТОДОВ
+ПРИМЕНЕНИЕ МЕТОДОВ РУНГЕ-КУТТЫ-НЮСТРЁМА ДЛЯ РЕШЕНИЯ УРАВНЕНИЯ ХИЛЛА
+СОХРАНЕНИЕ СИМПЛЕКТИЧЕСКОЙ СТРУКТУРЫ КЛАССИЧЕСКИМИ ЧИСЛЕННЫМИ МЕТОДАМИ
+
+
+SYMPLECTIC INTEGRATORS AND THE PROBLEM OF WAVE PROPAGATION IN LAYERED MEDIA, BULLETIN OF PEOPLES' FRIENDSHIP UNIVERSITY OF RUSSIA. SERIES: MATHEMATICS. INFORMATION SCIENCES
+SYMPLECTIC INTEGRATORS AND THE PROBLEM OF WAVE PROPAGATION IN LAYERED MEDIA
+УСЛОВИЕ ЯВНОСТИ И ДИАГОНАЛЬНОЙ НЕЯВНОСТИ ПРИ КОМПОЗИЦИИ МЕТОДА РУНГЕ-КУТТЫ СО СВОИМ ПРИСОЕДИНЕННЫМ
+ИЗУЧЕНИЕ ПАРАМЕТРИЧЕСКОГО ВОЗБУЖДЕНИЯ ОСЦИЛЛЯТОРОВ В ЗАВИСИМОСТИ ОТ ИМПЕДАНСА И ЧАСТОТЫ
