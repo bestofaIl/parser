@@ -1,6 +1,10 @@
 const puppeteer = require("puppeteer");
 const fs = require("fs/promises");
 
+
+let username = "RuslanGummy";
+let password = "aEVh5p9A#57KwS8"
+
 async function getDate() {
     const browser = await puppeteer.launch({
         headless: false
@@ -8,32 +12,41 @@ async function getDate() {
     const page = await browser.newPage();
     let nextButton;
     let publications = [];
-    await page.goto("https://www.elibrary.ru/author_items.asp?authorid=622808");
-    do {
-        await page.waitForSelector("#restab > tbody > tr:nth-child(1)");
-        await page.waitForSelector("#pages > table > tbody > tr > td:nth-child(10) > a", {timeout: 2000}).catch((e) => {
-            console.log(e)
-        });
-        publications = publications.concat(await page.$$eval("#restab > tbody > tr", async (works) => {
-            try {
-                return works
-                    .filter((work => work.id))
-                    .map((work) => {
-                        return (document.querySelector(`#${work.id} > td:nth-child(2) > a > b > span`) || document.querySelector(`#${work.id} > td:nth-child(2) > b`)).textContent;
-                    })
-            } catch (e) {
-                console.log(e);
-            }
-        }))
-
-        nextButton = await page.$("#pages > table > tbody > tr > td:nth-child(10) > a");
-
-        if (nextButton) {
-            await page.click("#pages > table > tbody > tr > td:nth-child(10) > a");
-        }
-    } while (nextButton);
-
-    await fs.writeFile("data.txt", publications.join("\n"));
+    // await page.goto("https://www.elibrary.ru/author_items.asp?authorid=622808");
+    await page.goto("https://elibrary.ru/");
+    await page.waitForSelector("#password");
+    await new Promise((resolve) => setTimeout(resolve, 3000));
+    await page.type("#login", username);
+    await new Promise((resolve) => setTimeout(resolve, 3000));
+    await page.type("#password", password)
+    await new Promise((resolve) => setTimeout(resolve, 3000));
+    await page.click(".butred");
+    await new Promise((resolve) => setTimeout(resolve, 100000));
+    // do {
+    //     await page.waitForSelector("#restab > tbody > tr:nth-child(1)");
+    //     await page.waitForSelector("#pages > table > tbody > tr > td:nth-child(10) > a", {timeout: 2000}).catch((e) => {
+    //         console.log(e)
+    //     });
+    //     publications = publications.concat(await page.$$eval("#restab > tbody > tr", async (works) => {
+    //         try {
+    //             return works
+    //                 .filter((work => work.id))
+    //                 .map((work) => {
+    //                     return (document.querySelector(`#${work.id} > td:nth-child(2) > a > b > span`) || document.querySelector(`#${work.id} > td:nth-child(2) > b`)).textContent;
+    //                 })
+    //         } catch (e) {
+    //             console.log(e);
+    //         }
+    //     }))
+    //
+    //     nextButton = await page.$("#pages > table > tbody > tr > td:nth-child(10) > a");
+    //
+    //     if (nextButton) {
+    //         await page.click("#pages > table > tbody > tr > td:nth-child(10) > a");
+    //     }
+    // } while (nextButton);
+    //
+    // await fs.writeFile("data.txt", publications.join("\n"));
     await browser.close();
 
 }
